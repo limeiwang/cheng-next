@@ -8,6 +8,22 @@ export default function Home() {
     title: '2021',
     text: '2021新年快乐！'
   }, {
+    img: '/2021.jpg',
+    title: '2021',
+    text: '2021新年快乐！'
+  }, {
+    img: '/2021.jpg',
+    title: '2021',
+    text: '2021新年快乐！'
+  }, {
+    img: '/2021.jpg',
+    title: '2021',
+    text: '2021新年快乐！'
+  }, {
+    img: '/2021.jpg',
+    title: '2021',
+    text: '2021新年快乐！'
+  }, {
     img: '/cat.jpeg',
     title: 'cat',
     text: '猫mi'

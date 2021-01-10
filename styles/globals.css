@@ -14,3 +14,16 @@ a {
 * {
   box-sizing: border-box;
 }
+
+html,
+body,
+#__next {
+  width: 100%;
+  min-height: 100%;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
